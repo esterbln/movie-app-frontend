@@ -4,6 +4,12 @@ Aplikasi web untuk mengelola dan membeli film, dibuat dengan **Vue 3** dan **Qua
 
 Proyek ini berawal dari latihan kuliah, lalu saya rapikan agar bisa dijalankan ulang oleh siapa pun.
 
+## Tampilan
+
+**Halaman admin: Master Movie**
+
+![Halaman admin Master Movie](screenshots/admin-movie.png)
+
 ## Fitur
 
 **Umum**
