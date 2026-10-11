@@ -8,7 +8,7 @@ Proyek ini berawal dari latihan kuliah, lalu saya rapikan agar bisa dijalankan u
 
 **Halaman admin: Master Movie**
 
-![Halaman admin Master Movie](screenshots.png)
+![Halaman admin Master Movie](screenshot.png)
 
 ## Fitur
 
